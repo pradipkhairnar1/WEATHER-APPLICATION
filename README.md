@@ -13,8 +13,7 @@ DURATION : 4 WEEKS
 MENTOR : NEELA SANTOSH
 
 
-About the Project:- Weather Application 🌦️
-
+About the Project:- 
 The Weather Web Application is a full-stack project developed using the MERN stack principles with a React frontend and Node.js/Express backend. This application allows users to check real-time weather conditions for any city worldwide as well as fetch weather data automatically based on the user's current geographic location.
 
 The project integrates the OpenWeatherMap API to provide accurate and up-to-date meteorological information including temperature, humidity, wind speed, and weather conditions.
@@ -86,3 +85,6 @@ npm install
 npm start  
 
 ## OUTPUT
+
+<img width="1919" height="1011" alt="Image" src="https://github.com/user-attachments/assets/cbf7712c-9da5-4b18-8be3-03807b938bb9" />
+<img width="1919" height="1022" alt="Image" src="https://github.com/user-attachments/assets/37eec891-9eaa-438d-9c57-64dd12e71d61" />

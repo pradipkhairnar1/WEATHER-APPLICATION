@@ -86,5 +86,7 @@ npm start
 
 ## OUTPUT
 
-<img width="1919" height="1011" alt="Image" src="https://github.com/user-attachments/assets/cbf7712c-9da5-4b18-8be3-03807b938bb9" />
 <img width="1919" height="1022" alt="Image" src="https://github.com/user-attachments/assets/37eec891-9eaa-438d-9c57-64dd12e71d61" />
+
+<img width="1919" height="1011" alt="Image" src="https://github.com/user-attachments/assets/cbf7712c-9da5-4b18-8be3-03807b938bb9" />
+
